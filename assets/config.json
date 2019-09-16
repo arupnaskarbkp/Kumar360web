@@ -289,7 +289,7 @@
         "title":"WebView",
         "provider":"webview",
         "arguments":[
-          "http://www.google.com"
+          "https://twitter.com/login"
         ]
       }
     ]
